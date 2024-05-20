@@ -4,4 +4,4 @@ title: Contact Us
 permalink: /contactus/
 ---
 
-Here's how you can contact us ...
+For any questions, or concerns you can email the organizers at [mlinmedicalroboticsworkshop@gmail.com](mailto:mlinmedicalroboticsworkshop@gmail.com)
