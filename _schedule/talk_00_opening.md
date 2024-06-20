@@ -8,6 +8,10 @@ speaker: Organizers
 # Title of the event
 title: Opening remarks
 
+affil: Photo Credit
+affil_link: https://www.vecteezy.com/free-vector/background
+img: business_man.jpg
+
 # Time of the event
-time: 08:45 - 09:00
+time: 08:55 am - 09:00 am
 ---
